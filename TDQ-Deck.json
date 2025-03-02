@@ -1,0 +1,16 @@
+{
+	"id": "tdq",
+	"name": "The Deck Quest",
+	"display_name": "The Deck Quest",
+	"author": ["cassiepepsi"],
+	"description": "Changes the design of the face cards to be TDQ themed.",
+	"prefix": "tdq",
+	"main_file": "TDQ-Deck.lua",
+	"priority": 0,
+	"badge_colour": "DF4A5E",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)"
+	]
+}
